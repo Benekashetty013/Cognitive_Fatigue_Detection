@@ -1,0 +1,17 @@
+opencv-python
+mediapipe==0.10.9
+protobuf<4
+numpy
+pandas
+scikit-learn
+joblib
+pandas
+scikit-learn
+joblib
+numpy
+onnx
+skl2onnx
+onnxruntime
+tf2onnx
+tensorflow<2.13
+protobuf<4

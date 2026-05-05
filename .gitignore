@@ -1,0 +1,32 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.idea/
+.kotlin/
+.vscode/
+.DS_Store
+/build
+build/
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Python environments and generated files
+venv/
+venv-tflite/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+
+# Runtime and OS noise
+*.log
+Thumbs.db
